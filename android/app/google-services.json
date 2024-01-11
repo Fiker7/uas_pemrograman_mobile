@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616664426270",
+    "project_id": "appberitaflutter",
+    "storage_bucket": "appberitaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616664426270:android:31a5fa9a380328216acb0f",
+        "android_client_info": {
+          "package_name": "com.example.app_berita_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLYSJ_HIqh-x2rO52BSgLPQtHY45aeaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
